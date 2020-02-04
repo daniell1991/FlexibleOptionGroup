@@ -1,7 +1,7 @@
-package org.vaadin.hene.flexibleoptiongroup.v7;
+package org.vaadin.hene.flexibleoptiongroup;
 
-import org.vaadin.hene.flexibleoptiongroup.widgetset.client.v7.FlexibleOptionGroupItemComponentServerRpc;
-import org.vaadin.hene.flexibleoptiongroup.widgetset.client.v7.FlexibleOptionGroupItemComponentState;
+import org.vaadin.hene.flexibleoptiongroup.widgetset.client.ui.FlexibleOptionGroupItemComponentServerRpc;
+import org.vaadin.hene.flexibleoptiongroup.widgetset.client.ui.FlexibleOptionGroupItemComponentState;
 
 import com.vaadin.server.Resource;
 import com.vaadin.v7.ui.AbstractLegacyComponent;

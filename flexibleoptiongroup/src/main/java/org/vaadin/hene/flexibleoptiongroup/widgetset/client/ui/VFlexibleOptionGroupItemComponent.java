@@ -1,4 +1,4 @@
-package org.vaadin.hene.flexibleoptiongroup.widgetset.client.v7;
+package org.vaadin.hene.flexibleoptiongroup.widgetset.client.ui;
 
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;

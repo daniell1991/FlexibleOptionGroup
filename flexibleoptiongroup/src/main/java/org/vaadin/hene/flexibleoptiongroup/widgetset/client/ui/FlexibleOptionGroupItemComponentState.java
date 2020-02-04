@@ -1,13 +1,15 @@
 package org.vaadin.hene.flexibleoptiongroup.widgetset.client.ui;
 
-import com.vaadin.shared.AbstractComponentState;
+import com.vaadin.v7.shared.AbstractLegacyComponentState;
 
-public class FlexibleOptionGroupItemComponentState extends
-		AbstractComponentState {
+/**
+ * @author Henri Kerola / Vaadin
+ */
+public class FlexibleOptionGroupItemComponentState extends AbstractLegacyComponentState {
 
-	public int ownerId;
+    public int ownerId;
 
-	public boolean selected;
+    public boolean selected;
 
-	public boolean readOnly;
+    public boolean multiSelect;
 }

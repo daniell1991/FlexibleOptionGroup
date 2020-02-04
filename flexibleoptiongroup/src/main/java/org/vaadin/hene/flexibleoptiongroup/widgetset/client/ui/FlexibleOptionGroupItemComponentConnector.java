@@ -1,6 +1,6 @@
-package org.vaadin.hene.flexibleoptiongroup.widgetset.client.v7;
+package org.vaadin.hene.flexibleoptiongroup.widgetset.client.ui;
 
-import org.vaadin.hene.flexibleoptiongroup.v7.FlexibleOptionGroupItemComponent;
+import org.vaadin.hene.flexibleoptiongroup.FlexibleOptionGroupItemComponent;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.ui.Widget;
